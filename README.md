@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 const allAboutMe = {
-      name: {
+      #name: {
             😄 pronouns: 'She/Her',
             first: "Donya",
             last: "Johari"
