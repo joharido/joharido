@@ -1,6 +1,7 @@
 ####  Hi there 👋
 
-#### const allAboutMe = {
+```
+const allAboutMe = {
     name: {
         😄 pronouns: 'She/Her',
         first: "Donya",
@@ -26,3 +27,4 @@
         📚 book: 'Tell No One'
     }
 }
+```
