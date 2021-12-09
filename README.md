@@ -7,7 +7,7 @@ const allAboutMe = {
         first: "Donya",
         last: "Johari"
     },
-    languages: 🚀 ['Java', 'TypeScript', 'Swift'],
+    languages: 🚀 ['Java', 'TypeScript', 'Swift', 'C'],
     experience: {
         💻 current: 'Software Engineering Intern, Slalom Build, June 2021 - Current',
         🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2022'
