@@ -9,7 +9,7 @@ const allAboutMe = {
     },
     languages: 🚀 ['Java', 'TypeScript', 'Swift', 'C'],
     experience: {
-        💻 current: 'Software Engineering Intern, Slalom Build, June 2021 - Current',
+        💻 recent: 'Software Engineering Intern, Slalom Build, June 2021 - September 2021',
         🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2022'
     },
     🔭 workingOn: 'My very first personal React app Focalpoint',
