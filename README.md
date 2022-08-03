@@ -7,9 +7,9 @@ const allAboutMe = {
         first: "Donya",
         last: "Johari"
     },
-    languages: 🚀 ['Java', 'TypeScript', 'Swift', 'C'],
+    languages: 🚀 ['Java', 'TypeScript', 'Swift', 'Python'],
     experience: {
-        💻 recent: 'Software Engineering Intern, Slalom Build, June 2021 - September 2021',
+        💻 recent: 'Software Engineering Intern, Apple, May 2022 - August 2022',
         🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2022'
     },
     🔭 workingOn: 'My very first personal React app Focalpoint',
