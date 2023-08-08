@@ -7,7 +7,7 @@ const allAboutMe = {
         first: "Donya",
         last: "Johari"
     },
-    languages: 🚀 ['Java', 'TypeScript', 'Swift', 'Python'],
+    languages: 🚀 ['TypeScript', 'Swift', 'Python', 'Java'],
     experience: {
         💻 recent: 'Software Engineering Intern, Apple, May 2022 - August 2022',
         🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2022'
@@ -23,7 +23,7 @@ const allAboutMe = {
     favorites: {
         💃 song: 'The King',
         🎥 movie: 'Pride & Prejudice',
-        🎮 game: ['Like A Dino!', 'Minecraft'],
+        🎮 game: ['God of War', 'Minecraft'],
         📚 book: 'Tell No One'
     }
 }
