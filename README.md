@@ -10,7 +10,7 @@ const allAboutMe = {
     languages: 🚀 ['TypeScript', 'Swift', 'Python', 'Java'],
     experience: {
         💻 recent: 'Software Engineering Intern, Apple, May 2022 - August 2022',
-        🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2022'
+        🔬 education: 'Bachelor of Computer Engineering, York University, 2017 - 2023'
     },
     🔭 workingOn: 'My very first personal React app Focalpoint',
     🌱 learning: 'All things web dev as well as Swift and SwiftUI',
