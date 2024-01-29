@@ -21,7 +21,7 @@ const allAboutMe = {
         🔁 recursion: 'https://github.com/joharido'
     },
     favorites: {
-        💃 song: 'The King',
+        💃 song: 'Candy Necklace',
         🎥 movie: 'Pride & Prejudice',
         🎮 game: ['God of War', 'Minecraft'],
         📚 book: 'Tell No One'
