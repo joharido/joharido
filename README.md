@@ -23,7 +23,7 @@ const allAboutMe = {
     favorites: {
         💃 song: 'Candy Necklace',
         🎥 movie: 'Pride & Prejudice',
-        🎮 game: ['God of War', 'Minecraft', 'Red Dead Redemption'],
+        🎮 game: ['God of War', 'Baldurs Gate', 'Red Dead Redemption'],
         📚 book: 'Tell No One'
     }
 }
